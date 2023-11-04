@@ -22,7 +22,15 @@ var stories = {
                 "type": "string"
             },
             {
+                "name": "ic_date",
+                "type": "string"
+            },
+            {
                 "name": "world",
+                "type": "string"
+            },
+            {
+                "name": "summary",
                 "type": "string"
             }
         ],
@@ -38,7 +46,9 @@ var stories = {
             "author": "acrab-anon",
             "link": "https:\/\/rentry.org\/acrab",
             "post_date": "2023-04-10",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 1,
@@ -46,7 +56,9 @@ var stories = {
             "author": "beast-anon",
             "link": "https:\/\/rentry.org\/vxugg",
             "post_date": "2023-03-12",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 2,
@@ -54,7 +66,9 @@ var stories = {
             "author": "beast-anon",
             "link": "https:\/\/rentry.org\/he9vhy",
             "post_date": "2023-03-15",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 3,
@@ -62,7 +76,9 @@ var stories = {
             "author": "beast-anon",
             "link": "https:\/\/rentry.co\/tfisz8",
             "post_date": "2023-03-21",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 4,
@@ -70,7 +86,9 @@ var stories = {
             "author": "beast-anon",
             "link": "https:\/\/rentry.org\/uuauk",
             "post_date": "2023-09-03",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 5,
@@ -78,7 +96,9 @@ var stories = {
             "author": "growlithe-anon",
             "link": "https:\/\/rentry.org\/LiminalCrossroads1",
             "post_date": "2023-05-30",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 6,
@@ -86,7 +106,9 @@ var stories = {
             "author": "growlithe-anon",
             "link": "https:\/\/rentry.org\/LiminalCrossroads2",
             "post_date": "2023-06-10",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 7,
@@ -94,7 +116,9 @@ var stories = {
             "author": "growlithe-anon",
             "link": "https:\/\/rentry.org\/LiminalCrossroads3",
             "post_date": "2023-06-16",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 8,
@@ -102,7 +126,9 @@ var stories = {
             "author": "growlithe-anon",
             "link": "https:\/\/rentry.org\/BillyVSPorygon",
             "post_date": "2023-07-05",
-            "world": "non-canon_clover_guild"
+            "ic_date": null,
+            "world": "non-canon_clover_guild",
+            "summary": null
         },
         {
             "index": 9,
@@ -110,7 +136,9 @@ var stories = {
             "author": "growlithe-anon",
             "link": "https:\/\/rentry.org\/LiminalCrossroads4",
             "post_date": "2023-07-25",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 10,
@@ -118,7 +146,9 @@ var stories = {
             "author": "growlithe-anon",
             "link": "https:\/\/rentry.org\/LiminalCrossroads5",
             "post_date": "2023-08-14",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 11,
@@ -126,7 +156,9 @@ var stories = {
             "author": "growlithe-anon",
             "link": "https:\/\/rentry.org\/LiminalCrossroads6",
             "post_date": "2023-08-30",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 12,
@@ -134,7 +166,9 @@ var stories = {
             "author": "growlithe-anon",
             "link": "https:\/\/rentry.org\/LiminalCrossroads7",
             "post_date": "2023-09-27",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 13,
@@ -142,7 +176,9 @@ var stories = {
             "author": "ribombee-anon",
             "link": "https:\/\/rentry.org\/e9e5p",
             "post_date": "2023-03-05",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 14,
@@ -150,7 +186,9 @@ var stories = {
             "author": "ribombee-anon",
             "link": "https:\/\/rentry.org\/h3fdu",
             "post_date": "2023-03-06",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 15,
@@ -158,7 +196,9 @@ var stories = {
             "author": "ribombee-anon",
             "link": "https:\/\/rentry.org\/RibombeeArrival",
             "post_date": "2023-03-12",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 16,
@@ -166,7 +206,9 @@ var stories = {
             "author": "ribombee-anon",
             "link": "https:\/\/rentry.org\/RibombeeEcho",
             "post_date": "2023-03-18",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 17,
@@ -174,7 +216,9 @@ var stories = {
             "author": "ribombee-anon",
             "link": "https:\/\/rentry.org\/RibombeeCotton",
             "post_date": "2023-03-25",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 18,
@@ -182,7 +226,9 @@ var stories = {
             "author": "ribombee-anon",
             "link": "https:\/\/rentry.org\/RibombeeDock",
             "post_date": "2023-04-06",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 19,
@@ -190,7 +236,9 @@ var stories = {
             "author": "ribombee-anon",
             "link": "https:\/\/rentry.org\/RibombeeSlingshot",
             "post_date": "2023-04-15",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 20,
@@ -198,7 +246,9 @@ var stories = {
             "author": "ribombee-anon",
             "link": "https:\/\/rentry.org\/RibombeeFly",
             "post_date": "2023-08-19",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 21,
@@ -206,7 +256,9 @@ var stories = {
             "author": "ribombee-anon",
             "link": "https:\/\/rentry.org\/RibombeeJournal",
             "post_date": "2023-05-28",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 22,
@@ -214,7 +266,9 @@ var stories = {
             "author": "ribombee-anon",
             "link": "https:\/\/rentry.org\/RibombeeBuckler1",
             "post_date": "2023-06-10",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 23,
@@ -222,7 +276,9 @@ var stories = {
             "author": "ribombee-anon",
             "link": "https:\/\/rentry.org\/RibombeeBuckler2",
             "post_date": "2023-07-01",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 24,
@@ -230,7 +286,9 @@ var stories = {
             "author": "ribombee-anon",
             "link": "https:\/\/rentry.org\/RibombeeBuckler3",
             "post_date": "2023-07-16",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 25,
@@ -238,7 +296,9 @@ var stories = {
             "author": "ribombee-anon",
             "link": "https:\/\/rentry.org\/RibombeeGone",
             "post_date": "2023-09-03",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 26,
@@ -246,7 +306,9 @@ var stories = {
             "author": "ribombee-anon",
             "link": "https:\/\/rentry.org\/RibombeeSentimental",
             "post_date": "2023-10-15",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 27,
@@ -254,7 +316,9 @@ var stories = {
             "author": "ribombee-anon",
             "link": "https:\/\/rentry.org\/RibombeeGem",
             "post_date": "2023-10-22",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 28,
@@ -262,7 +326,9 @@ var stories = {
             "author": "ribombee-anon",
             "link": "https:\/\/arch.b4k.co\/vp\/thread\/53376952\/#q53379517",
             "post_date": "2023-03-05",
-            "world": "non-canon_clover_guild"
+            "ic_date": null,
+            "world": "non-canon_clover_guild",
+            "summary": null
         },
         {
             "index": 29,
@@ -270,7 +336,9 @@ var stories = {
             "author": "bullet-anon",
             "link": "https:\/\/pastebin.com\/5jeqWKYh",
             "post_date": "2023-03-10",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 30,
@@ -278,7 +346,9 @@ var stories = {
             "author": "bullet-anon",
             "link": "https:\/\/rentry.org\/o3ru4",
             "post_date": "2023-03-15",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 31,
@@ -286,7 +356,9 @@ var stories = {
             "author": "bullet-anon",
             "link": "https:\/\/rentry.org\/5znx3",
             "post_date": "2023-03-24",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 32,
@@ -294,7 +366,9 @@ var stories = {
             "author": "carrot-anon",
             "link": "https:\/\/rentry.org\/carrot-hazel-archive",
             "post_date": "2023-04-20",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 33,
@@ -302,7 +376,9 @@ var stories = {
             "author": "raboot-anon",
             "link": "https:\/\/arch.b4k.co\/vp\/thread\/53384286\/#q53388874",
             "post_date": "2023-03-06",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 34,
@@ -310,7 +386,9 @@ var stories = {
             "author": "charmander-anon",
             "link": "https:\/\/rentry.org\/oracle0",
             "post_date": "2023-03-06",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 35,
@@ -318,7 +396,9 @@ var stories = {
             "author": "charmander-anon",
             "link": "https:\/\/rentry.org\/oracle1",
             "post_date": "2023-03-08",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 36,
@@ -326,7 +406,9 @@ var stories = {
             "author": "vulqostrun",
             "link": "https:\/\/rentry.org\/Gumbo1",
             "post_date": "2023-09-10",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 37,
@@ -334,7 +416,9 @@ var stories = {
             "author": "chespin-anon",
             "link": "https:\/\/rentry.org\/q6gf5",
             "post_date": "2023-03-08",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 38,
@@ -342,7 +426,9 @@ var stories = {
             "author": "chespin-anon",
             "link": "https:\/\/rentry.org\/mpieq",
             "post_date": "2023-03-14",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 39,
@@ -350,7 +436,9 @@ var stories = {
             "author": "chespin-anon",
             "link": "https:\/\/rentry.org\/mo6os",
             "post_date": "2023-03-20",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 40,
@@ -358,7 +446,9 @@ var stories = {
             "author": "chespin-anon",
             "link": "https:\/\/rentry.org\/tay4x",
             "post_date": "2023-03-21",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 41,
@@ -366,7 +456,9 @@ var stories = {
             "author": "chespin-anon",
             "link": "https:\/\/rentry.org\/2dvef",
             "post_date": "2023-03-23",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 42,
@@ -374,7 +466,9 @@ var stories = {
             "author": "chespin-anon",
             "link": "https:\/\/rentry.org\/yiccz",
             "post_date": "2023-03-25",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 43,
@@ -382,7 +476,9 @@ var stories = {
             "author": "chespin-anon",
             "link": "https:\/\/rentry.org\/mk77t",
             "post_date": "2023-03-31",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 44,
@@ -390,7 +486,9 @@ var stories = {
             "author": "chespin-anon",
             "link": "https:\/\/rentry.org\/m2kdg",
             "post_date": "2023-04-03",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 45,
@@ -398,7 +496,9 @@ var stories = {
             "author": "chespin-anon",
             "link": "https:\/\/rentry.org\/me5gi",
             "post_date": "2023-04-08",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 46,
@@ -406,7 +506,9 @@ var stories = {
             "author": "chespin-anon",
             "link": "https:\/\/rentry.org\/q7she",
             "post_date": "2023-04-15",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 47,
@@ -414,7 +516,9 @@ var stories = {
             "author": "chespin-anon",
             "link": "https:\/\/rentry.org\/py58i",
             "post_date": "2023-04-18",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 48,
@@ -422,7 +526,9 @@ var stories = {
             "author": "chespin-anon",
             "link": "https:\/\/rentry.org\/sm6dx",
             "post_date": "2023-04-22",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 49,
@@ -430,7 +536,9 @@ var stories = {
             "author": "chespin-anon",
             "link": "https:\/\/rentry.org\/grmup",
             "post_date": "2023-04-28",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 50,
@@ -438,7 +546,9 @@ var stories = {
             "author": "chespin-anon",
             "link": "https:\/\/rentry.org\/mqzv9",
             "post_date": "2023-05-13",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 51,
@@ -446,7 +556,9 @@ var stories = {
             "author": "chespin-anon",
             "link": "https:\/\/rentry.org\/bvu67",
             "post_date": "2023-05-19",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 52,
@@ -454,7 +566,9 @@ var stories = {
             "author": "chespin-anon",
             "link": "https:\/\/rentry.org\/zw7p4",
             "post_date": "2023-05-24",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 53,
@@ -462,7 +576,9 @@ var stories = {
             "author": "chespin-anon",
             "link": "https:\/\/rentry.org\/qt5wu",
             "post_date": "2023-06-06",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 54,
@@ -470,7 +586,9 @@ var stories = {
             "author": "chespin-anon",
             "link": "https:\/\/rentry.org\/ytbot",
             "post_date": "2023-06-15",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 55,
@@ -478,7 +596,9 @@ var stories = {
             "author": "chespin-anon",
             "link": "https:\/\/rentry.org\/6ht5i",
             "post_date": "2023-06-19",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 56,
@@ -486,7 +606,9 @@ var stories = {
             "author": "chespin-anon",
             "link": "https:\/\/rentry.org\/chespinsweek",
             "post_date": "2023-07-18",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 57,
@@ -494,7 +616,9 @@ var stories = {
             "author": "chespin-anon",
             "link": "https:\/\/rentry.org\/ev6i9",
             "post_date": "2023-10-30",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 58,
@@ -502,7 +626,9 @@ var stories = {
             "author": "lycanroc-anon",
             "link": "https:\/\/rentry.org\/cmxrvt",
             "post_date": "2023-05-03",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 59,
@@ -510,7 +636,9 @@ var stories = {
             "author": "lycanroc-anon",
             "link": "https:\/\/rentry.org\/imuwu",
             "post_date": "2023-05-08",
-            "world": "non-canon_clover_guild"
+            "ic_date": null,
+            "world": "non-canon_clover_guild",
+            "summary": null
         },
         {
             "index": 60,
@@ -518,7 +646,9 @@ var stories = {
             "author": "lycanroc-anon",
             "link": "https:\/\/rentry.org\/UWED0",
             "post_date": "2023-06-08",
-            "world": "non-canon_clover_guild"
+            "ic_date": null,
+            "world": "non-canon_clover_guild",
+            "summary": null
         },
         {
             "index": 61,
@@ -526,7 +656,9 @@ var stories = {
             "author": "lycanroc-anon",
             "link": "https:\/\/rentry.org\/hunt3r",
             "post_date": "2023-07-09",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 62,
@@ -534,7 +666,9 @@ var stories = {
             "author": "debby-anon",
             "link": "https:\/\/arch.b4k.co\/vp\/thread\/53493839\/#53498117",
             "post_date": "2023-03-23",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 63,
@@ -542,7 +676,9 @@ var stories = {
             "author": "debby-anon",
             "link": "https:\/\/rentry.org\/dyxrn",
             "post_date": "2023-03-27",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 64,
@@ -550,7 +686,9 @@ var stories = {
             "author": "debby-anon",
             "link": "https:\/\/arch.b4k.co\/vp\/thread\/53551186\/#53553696",
             "post_date": "2023-03-31",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 65,
@@ -558,7 +696,9 @@ var stories = {
             "author": "debby-anon",
             "link": "https:\/\/arch.b4k.co\/vp\/thread\/53583300\/#53587775",
             "post_date": "2023-04-06",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 66,
@@ -566,7 +706,9 @@ var stories = {
             "author": "debby-anon",
             "link": "https:\/\/rentry.org\/vd3nc",
             "post_date": "2023-04-09",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 67,
@@ -574,7 +716,9 @@ var stories = {
             "author": "debby-anon",
             "link": "https:\/\/rentry.org\/quy2g",
             "post_date": "2023-04-30",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 68,
@@ -582,7 +726,9 @@ var stories = {
             "author": "debby-anon",
             "link": "https:\/\/rentry.org\/6eoei",
             "post_date": "2023-05-08",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 69,
@@ -590,7 +736,9 @@ var stories = {
             "author": "debby-anon",
             "link": "https:\/\/rentry.org\/d5qbc",
             "post_date": "2023-06-10",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 70,
@@ -598,7 +746,9 @@ var stories = {
             "author": "debby-anon",
             "link": "https:\/\/rentry.org\/SmokeBreak2",
             "post_date": "2023-06-25",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 71,
@@ -606,7 +756,9 @@ var stories = {
             "author": "debby-anon",
             "link": "https:\/\/rentry.org\/DebbysDiary",
             "post_date": "2023-06-27",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 72,
@@ -614,7 +766,9 @@ var stories = {
             "author": "debby-anon",
             "link": "https:\/\/rentry.org\/tamadachi",
             "post_date": "2023-06-27",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 73,
@@ -622,7 +776,9 @@ var stories = {
             "author": "debby-anon",
             "link": "https:\/\/rentry.org\/o4cme",
             "post_date": "2023-07-06",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 74,
@@ -630,7 +786,9 @@ var stories = {
             "author": "debby-anon",
             "link": "https:\/\/rentry.org\/SmokeBreak3",
             "post_date": "2023-09-02",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 75,
@@ -638,7 +796,9 @@ var stories = {
             "author": "debby-anon",
             "link": "https:\/\/arch.b4k.co\/vp\/thread\/54522203\/#54540338",
             "post_date": "2023-09-23",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 76,
@@ -646,7 +806,9 @@ var stories = {
             "author": "elm-anon",
             "link": "https:\/\/rentry.org\/branching",
             "post_date": "2023-04-15",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 77,
@@ -654,7 +816,9 @@ var stories = {
             "author": "elm-anon",
             "link": "https:\/\/rentry.org\/clover_guildintro",
             "post_date": "2023-04-27",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 78,
@@ -662,7 +826,9 @@ var stories = {
             "author": "elm-anon",
             "link": "https:\/\/rentry.org\/overelming",
             "post_date": "2023-06-03",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 79,
@@ -670,7 +836,9 @@ var stories = {
             "author": "fern-anon",
             "link": "https:\/\/rentry.org\/b2f4t",
             "post_date": "2023-10-03",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 80,
@@ -678,7 +846,9 @@ var stories = {
             "author": "fern-anon",
             "link": "https:\/\/rentry.org\/n5wxd",
             "post_date": "2023-10-24",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 81,
@@ -686,7 +856,9 @@ var stories = {
             "author": "oshawott-anon",
             "link": "https:\/\/arch.b4k.co\/vp\/thread\/53370806\/#q53372699",
             "post_date": "2023-03-04",
-            "world": "non-canon_clover_guild"
+            "ic_date": null,
+            "world": "non-canon_clover_guild",
+            "summary": null
         },
         {
             "index": 82,
@@ -694,7 +866,9 @@ var stories = {
             "author": "oshawott-anon",
             "link": "https:\/\/rentry.org\/7ytz9",
             "post_date": "2023-03-12",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 83,
@@ -702,7 +876,9 @@ var stories = {
             "author": "oshawott-anon",
             "link": "https:\/\/rentry.org\/mgeaa",
             "post_date": "2023-08-05",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 84,
@@ -710,7 +886,9 @@ var stories = {
             "author": "gimmighoul-anon",
             "link": "https:\/\/rentry.org\/7cwwk",
             "post_date": "2023-04-10",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 85,
@@ -718,7 +896,9 @@ var stories = {
             "author": "kaiji-anon",
             "link": "https:\/\/rentry.org\/xt6xx",
             "post_date": "2023-03-13",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 86,
@@ -726,7 +906,9 @@ var stories = {
             "author": "kaiji-anon",
             "link": "https:\/\/rentry.org\/7pagq",
             "post_date": "2023-03-30",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 87,
@@ -734,7 +916,9 @@ var stories = {
             "author": "kaiji-anon",
             "link": "https:\/\/rentry.org\/etew3b",
             "post_date": "2023-04-21",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 88,
@@ -742,7 +926,9 @@ var stories = {
             "author": "linoone-anon",
             "link": "https:\/\/rentry.org\/an9od",
             "post_date": "2023-08-17",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 89,
@@ -750,7 +936,9 @@ var stories = {
             "author": "kfc-anon",
             "link": "https:\/\/rentry.org\/Path_to_Aura",
             "post_date": "2023-03-06",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 90,
@@ -758,7 +946,9 @@ var stories = {
             "author": "kfc-anon",
             "link": "https:\/\/rentry.org\/PMD_Aura",
             "post_date": "2023-03-06",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 91,
@@ -766,7 +956,9 @@ var stories = {
             "author": "kfc-anon",
             "link": "https:\/\/rentry.org\/gcr6h",
             "post_date": "2023-03-15",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 92,
@@ -774,7 +966,9 @@ var stories = {
             "author": "kfc-anon",
             "link": "https:\/\/rentry.org\/bbdue",
             "post_date": "2023-03-25",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 93,
@@ -782,7 +976,9 @@ var stories = {
             "author": "kfc-anon",
             "link": "https:\/\/rentry.org\/crd8a",
             "post_date": "2023-06-13",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 94,
@@ -790,7 +986,9 @@ var stories = {
             "author": "kfc-anon",
             "link": "https:\/\/rentry.org\/49yqh",
             "post_date": "2023-07-23",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 95,
@@ -798,7 +996,9 @@ var stories = {
             "author": "kiyo-anon",
             "link": "https:\/\/rentry.org\/kcb-0",
             "post_date": "2023-04-17",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 96,
@@ -806,7 +1006,9 @@ var stories = {
             "author": "kiyo-anon",
             "link": "https:\/\/rentry.org\/kcb-1",
             "post_date": "2023-09-10",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 97,
@@ -814,7 +1016,9 @@ var stories = {
             "author": "macom-anon",
             "link": "https:\/\/rentry.org\/5y6sb",
             "post_date": "2023-03-06",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 98,
@@ -822,7 +1026,9 @@ var stories = {
             "author": "macom-anon",
             "link": "https:\/\/rentry.org\/okk4qw",
             "post_date": "2023-03-24",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 99,
@@ -830,7 +1036,9 @@ var stories = {
             "author": "macom-anon",
             "link": "https:\/\/rentry.org\/ymnk4",
             "post_date": "2023-05-06",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 100,
@@ -838,7 +1046,9 @@ var stories = {
             "author": "makuhita-anon",
             "link": "https:\/\/rentry.org\/GreatBulk1",
             "post_date": "2023-08-04",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 101,
@@ -846,7 +1056,9 @@ var stories = {
             "author": "makuhita-anon",
             "link": "https:\/\/rentry.org\/BulkGuide",
             "post_date": "2023-08-04",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 102,
@@ -854,7 +1066,9 @@ var stories = {
             "author": "makuhita-anon",
             "link": "https:\/\/rentry.org\/GreatBulkInter1",
             "post_date": "2023-08-09",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 103,
@@ -862,7 +1076,9 @@ var stories = {
             "author": "makuhita-anon",
             "link": "https:\/\/rentry.org\/GreatBulk2",
             "post_date": "2023-08-14",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 104,
@@ -870,7 +1086,9 @@ var stories = {
             "author": "makuhita-anon",
             "link": "https:\/\/rentry.org\/GreatBulk3",
             "post_date": "2023-09-06",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 105,
@@ -878,7 +1096,9 @@ var stories = {
             "author": "makuhita-anon",
             "link": "https:\/\/rentry.org\/GreatBulk4",
             "post_date": "2023-09-20",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 106,
@@ -886,7 +1106,9 @@ var stories = {
             "author": "makuhita-anon",
             "link": "https:\/\/rentry.org\/GreatBulkInter2",
             "post_date": "2023-09-24",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 107,
@@ -894,7 +1116,9 @@ var stories = {
             "author": "makuhita-anon",
             "link": "https:\/\/rentry.org\/GreatBulk5",
             "post_date": "2023-10-06",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 108,
@@ -902,7 +1126,9 @@ var stories = {
             "author": "makuhita-anon",
             "link": "https:\/\/rentry.org\/GreatBulkInter3",
             "post_date": "2023-10-25",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 109,
@@ -910,7 +1136,9 @@ var stories = {
             "author": "trubbish-anon",
             "link": "https:\/\/rentry.org\/awz4h",
             "post_date": "2023-09-01",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 110,
@@ -918,7 +1146,9 @@ var stories = {
             "author": "trubbish-anon",
             "link": "https:\/\/rentry.org\/b74v7",
             "post_date": "2023-09-03",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 111,
@@ -926,7 +1156,9 @@ var stories = {
             "author": "trubbish-anon",
             "link": "https:\/\/rentry.org\/d9wsb",
             "post_date": "2023-09-08",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 112,
@@ -934,7 +1166,9 @@ var stories = {
             "author": "trubbish-anon",
             "link": "https:\/\/rentry.org\/k2off",
             "post_date": "2023-09-15",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 113,
@@ -942,7 +1176,9 @@ var stories = {
             "author": "trubbish-anon",
             "link": "https:\/\/rentry.org\/2y9ab",
             "post_date": "2023-09-28",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 114,
@@ -950,7 +1186,9 @@ var stories = {
             "author": "trubbish-anon",
             "link": "https:\/\/rentry.org\/rbo87",
             "post_date": "2023-10-28",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 115,
@@ -958,7 +1196,9 @@ var stories = {
             "author": "vulpix-anon",
             "link": "https:\/\/rentry.org\/x5g6fz",
             "post_date": "2023-03-25",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 116,
@@ -966,7 +1206,9 @@ var stories = {
             "author": "nido-anon",
             "link": "https:\/\/rentry.org\/fehwy",
             "post_date": "2023-07-22",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 117,
@@ -974,7 +1216,9 @@ var stories = {
             "author": "nido-anon",
             "link": "https:\/\/rentry.org\/s4umg",
             "post_date": "2023-08-11",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 118,
@@ -982,7 +1226,9 @@ var stories = {
             "author": "corviknight-anon",
             "link": "https:\/\/rentry.org\/5ne4g",
             "post_date": "2023-04-13",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 119,
@@ -990,7 +1236,9 @@ var stories = {
             "author": "corviknight-anon",
             "link": "https:\/\/rentry.org\/uosgo9",
             "post_date": "2023-04-23",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 120,
@@ -998,7 +1246,9 @@ var stories = {
             "author": "phanpy-anon",
             "link": "https:\/\/rentry.org\/9t9oo",
             "post_date": "2023-03-05",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 121,
@@ -1006,7 +1256,9 @@ var stories = {
             "author": "phanpy-anon",
             "link": "https:\/\/rentry.org\/pn2fz",
             "post_date": "2023-03-13",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 122,
@@ -1014,7 +1266,9 @@ var stories = {
             "author": "phanpy-anon",
             "link": "https:\/\/rentry.org\/amr2c",
             "post_date": "2023-03-22",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 123,
@@ -1022,7 +1276,9 @@ var stories = {
             "author": "phanpy-anon",
             "link": "https:\/\/rentry.org\/yp44e",
             "post_date": "2023-03-23",
-            "world": "non-canon_clover_guild"
+            "ic_date": null,
+            "world": "non-canon_clover_guild",
+            "summary": null
         },
         {
             "index": 124,
@@ -1030,7 +1286,9 @@ var stories = {
             "author": "phanpy-anon",
             "link": "https:\/\/rentry.org\/ry2ek",
             "post_date": "2023-03-14",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 125,
@@ -1038,7 +1296,9 @@ var stories = {
             "author": "phanphy-anon",
             "link": "https:\/\/rentry.org\/unesm",
             "post_date": "2023-04-23",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 126,
@@ -1046,7 +1306,9 @@ var stories = {
             "author": "phanpy-anon",
             "link": "https:\/\/rentry.org\/rtez7",
             "post_date": "2023-04-28",
-            "world": "non-canon_clover_guild"
+            "ic_date": null,
+            "world": "non-canon_clover_guild",
+            "summary": null
         },
         {
             "index": 127,
@@ -1054,7 +1316,9 @@ var stories = {
             "author": "phanpy-anon",
             "link": "https:\/\/rentry.org\/qx7hw",
             "post_date": "2023-05-08",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 128,
@@ -1062,7 +1326,9 @@ var stories = {
             "author": "pika-anon",
             "link": "https:\/\/rentry.org\/6p9yk",
             "post_date": "2023-05-11",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 129,
@@ -1070,7 +1336,9 @@ var stories = {
             "author": "porygon-anon",
             "link": "https:\/\/rentry.org\/pmdhelloworld",
             "post_date": "2023-06-11",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 130,
@@ -1078,7 +1346,9 @@ var stories = {
             "author": "porygon-anon",
             "link": "https:\/\/rentry.org\/pmdabortretryfail",
             "post_date": "2023-07-27",
-            "world": "non-canon_clover_guild"
+            "ic_date": null,
+            "world": "non-canon_clover_guild",
+            "summary": null
         },
         {
             "index": 131,
@@ -1086,7 +1356,9 @@ var stories = {
             "author": "spinarak-anon",
             "link": "https:\/\/rentry.org\/surkn",
             "post_date": "2023-10-02",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 132,
@@ -1094,7 +1366,9 @@ var stories = {
             "author": "smeargle-anon",
             "link": "https:\/\/rentry.org\/qag5t",
             "post_date": "2023-04-10",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 133,
@@ -1102,7 +1376,9 @@ var stories = {
             "author": "smeargle-anon",
             "link": "https:\/\/rentry.org\/ytxap",
             "post_date": "2023-04-11",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 134,
@@ -1110,7 +1386,9 @@ var stories = {
             "author": "smeargle-anon",
             "link": "https:\/\/rentry.org\/gr4t7",
             "post_date": "2023-04-16",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 135,
@@ -1118,7 +1396,9 @@ var stories = {
             "author": "smeargle-anon",
             "link": "https:\/\/rentry.org\/226i97",
             "post_date": "2023-04-23",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 136,
@@ -1126,7 +1406,9 @@ var stories = {
             "author": "smeargle-anon",
             "link": "https:\/\/rentry.org\/7kn8v",
             "post_date": "2023-05-02",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 137,
@@ -1134,7 +1416,9 @@ var stories = {
             "author": "smeargle-anon",
             "link": "https:\/\/rentry.org\/opi29",
             "post_date": "2023-05-13",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 138,
@@ -1142,7 +1426,9 @@ var stories = {
             "author": "smeargle-anon",
             "link": "https:\/\/rentry.org\/cdb3z",
             "post_date": "2023-06-09",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 139,
@@ -1150,7 +1436,9 @@ var stories = {
             "author": "smeargle-anon",
             "link": "https:\/\/rentry.org\/RossPassesTheTime",
             "post_date": "2023-06-19",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 140,
@@ -1158,7 +1446,9 @@ var stories = {
             "author": "sableye-anon",
             "link": "https:\/\/rentry.org\/zyw8t",
             "post_date": "2023-03-09",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 141,
@@ -1166,7 +1456,9 @@ var stories = {
             "author": "sentret-anon",
             "link": "https:\/\/pastebin.com\/C7G3EsBs",
             "post_date": "2023-05-13",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 142,
@@ -1174,7 +1466,9 @@ var stories = {
             "author": "skorupi-anon",
             "link": "https:\/\/rentry.org\/cxhk8",
             "post_date": "2023-04-18",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 143,
@@ -1182,7 +1476,9 @@ var stories = {
             "author": "skorupi-anon",
             "link": "https:\/\/rentry.org\/hap2d",
             "post_date": "2023-04-18",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 144,
@@ -1190,7 +1486,9 @@ var stories = {
             "author": "skorupi-anon",
             "link": "https:\/\/rentry.org\/34ww5",
             "post_date": "2023-04-19",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 145,
@@ -1198,7 +1496,9 @@ var stories = {
             "author": "skorupi-anon",
             "link": "https:\/\/rentry.org\/kor88",
             "post_date": "2023-04-21",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 146,
@@ -1206,7 +1506,9 @@ var stories = {
             "author": "skorupi-anon",
             "link": "https:\/\/rentry.org\/5ivrh",
             "post_date": "2023-04-27",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 147,
@@ -1214,7 +1516,9 @@ var stories = {
             "author": "skorupi-anon",
             "link": "https:\/\/rentry.org\/c6n7h",
             "post_date": "2023-05-12",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 148,
@@ -1222,7 +1526,9 @@ var stories = {
             "author": "skorupi-anon",
             "link": "https:\/\/rentry.org\/iy7m3",
             "post_date": "2023-05-23",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 149,
@@ -1230,7 +1536,9 @@ var stories = {
             "author": "skorupi-anon",
             "link": "https:\/\/rentry.org\/gfivr",
             "post_date": "2023-06-15",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 150,
@@ -1238,7 +1546,9 @@ var stories = {
             "author": "skorupi-anon",
             "link": "https:\/\/rentry.org\/gfm47",
             "post_date": "2023-07-02",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 151,
@@ -1246,7 +1556,9 @@ var stories = {
             "author": "skorupi-anon",
             "link": "https:\/\/rentry.org\/22agi",
             "post_date": "2023-09-28",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 152,
@@ -1254,7 +1566,9 @@ var stories = {
             "author": "clampearl-anon",
             "link": "https:\/\/rentry.org\/4uw36",
             "post_date": "2023-07-04",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 153,
@@ -1262,7 +1576,9 @@ var stories = {
             "author": "clampearl-anon",
             "link": "https:\/\/rentry.org\/fau75",
             "post_date": "2023-07-05",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 154,
@@ -1270,7 +1586,9 @@ var stories = {
             "author": "clampearl-anon",
             "link": "https:\/\/rentry.org\/kcqy3",
             "post_date": "2023-07-07",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 155,
@@ -1278,7 +1596,9 @@ var stories = {
             "author": "clampearl-anon",
             "link": "https:\/\/rentry.org\/bdc4o",
             "post_date": "2023-07-12",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 156,
@@ -1286,7 +1606,9 @@ var stories = {
             "author": "clampearl-anon",
             "link": "https:\/\/rentry.org\/m36g2z",
             "post_date": "2023-07-16",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 157,
@@ -1294,7 +1616,9 @@ var stories = {
             "author": "dungeonitis-anon",
             "link": "https:\/\/rentry.org\/TheNewCelebOfSahraTownCh1",
             "post_date": "2023-06-25",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 158,
@@ -1302,7 +1626,9 @@ var stories = {
             "author": "dungeonitis-anon",
             "link": "https:\/\/rentry.org\/TheNewCelebOfSahraTownCh2",
             "post_date": "2023-06-28",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 159,
@@ -1310,7 +1636,9 @@ var stories = {
             "author": "dungeonitis-anon",
             "link": "https:\/\/rentry.org\/TheNewCelebOfSahraTownCh3",
             "post_date": "2023-06-30",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 160,
@@ -1318,7 +1646,9 @@ var stories = {
             "author": "dungeonitis-anon",
             "link": "https:\/\/rentry.org\/TheNewCelebOfSahraTownCh4",
             "post_date": "2023-07-07",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 161,
@@ -1326,7 +1656,9 @@ var stories = {
             "author": "togetic-anon",
             "link": "https:\/\/rentry.org\/w4ygz",
             "post_date": "2023-04-15",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 162,
@@ -1334,7 +1666,9 @@ var stories = {
             "author": "togetic-anon",
             "link": "https:\/\/rentry.org\/tqb5q",
             "post_date": "2023-04-19",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 163,
@@ -1342,7 +1676,9 @@ var stories = {
             "author": "togetic-anon",
             "link": "https:\/\/rentry.org\/9sy7z",
             "post_date": "2023-04-25",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 164,
@@ -1350,7 +1686,9 @@ var stories = {
             "author": "togetic-anon",
             "link": "https:\/\/rentry.org\/72x5v",
             "post_date": "2023-05-31",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 165,
@@ -1358,7 +1696,9 @@ var stories = {
             "author": "togetic-anon",
             "link": "https:\/\/rentry.org\/8phvs",
             "post_date": "2023-06-12",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 166,
@@ -1366,7 +1706,9 @@ var stories = {
             "author": "togetic-anon",
             "link": "https:\/\/rentry.org\/iqr9y",
             "post_date": "2023-10-28",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 167,
@@ -1374,7 +1716,9 @@ var stories = {
             "author": "tropius-anon",
             "link": "https:\/\/rentry.org\/TropiusIntro",
             "post_date": "2023-07-29",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 168,
@@ -1382,7 +1726,9 @@ var stories = {
             "author": "tropius-anon",
             "link": "https:\/\/rentry.org\/TropiusTwo",
             "post_date": "2023-10-28",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 169,
@@ -1390,7 +1736,9 @@ var stories = {
             "author": "tybo-anon",
             "link": "https:\/\/rentry.org\/3ex84z",
             "post_date": "2023-03-25",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 170,
@@ -1398,7 +1746,9 @@ var stories = {
             "author": "kiyo-anon",
             "link": "https:\/\/rentry.org\/kqkw98",
             "post_date": "2023-10-17",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 171,
@@ -1406,7 +1756,9 @@ var stories = {
             "author": "spinarak-anon",
             "link": "https:\/\/rentry.org\/kqkw98",
             "post_date": "2023-10-17",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 172,
@@ -1414,7 +1766,9 @@ var stories = {
             "author": "many authors",
             "link": "https:\/\/rentry.org\/1stCharacterPrompt",
             "post_date": "2023-03-04",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 173,
@@ -1422,7 +1776,9 @@ var stories = {
             "author": "many authors",
             "link": "https:\/\/rentry.org\/ChrPrompt",
             "post_date": "2023-05-29",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 174,
@@ -1430,7 +1786,9 @@ var stories = {
             "author": "many authors",
             "link": "https:\/\/rentry.org\/ChrPromptThreeHalf",
             "post_date": "2023-09-24",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 175,
@@ -1438,7 +1796,9 @@ var stories = {
             "author": "many authors",
             "link": "https:\/\/rentry.org\/chrpromptfourhalfredux",
             "post_date": "2023-10-27",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 176,
@@ -1446,7 +1806,9 @@ var stories = {
             "author": "unknown author",
             "link": "https:\/\/arch.b4k.co\/vp\/thread\/53384286\/#q53388992",
             "post_date": "2023-03-06",
-            "world": "non-canon_clover_guild"
+            "ic_date": null,
+            "world": "non-canon_clover_guild",
+            "summary": null
         },
         {
             "index": 177,
@@ -1454,7 +1816,9 @@ var stories = {
             "author": "popplio-anon",
             "link": "https:\/\/pastebin.com\/3naP1M7M",
             "post_date": "2023-09-23",
-            "world": "constructive_nightmare"
+            "ic_date": null,
+            "world": "constructive_nightmare",
+            "summary": null
         },
         {
             "index": 178,
@@ -1462,7 +1826,9 @@ var stories = {
             "author": "popplio-anon",
             "link": "https:\/\/rentry.org\/ebddp",
             "post_date": "2023-09-29",
-            "world": "constructive_nightmare"
+            "ic_date": null,
+            "world": "constructive_nightmare",
+            "summary": null
         },
         {
             "index": 179,
@@ -1470,7 +1836,9 @@ var stories = {
             "author": "popplio-anon",
             "link": "https:\/\/rentry.org\/32yu3",
             "post_date": "2023-10-11",
-            "world": "generic_pmd"
+            "ic_date": null,
+            "world": "generic_pmd",
+            "summary": null
         },
         {
             "index": 180,
@@ -1478,7 +1846,9 @@ var stories = {
             "author": "popplio-anon",
             "link": "https:\/\/rentry.org\/FWMDPrimer",
             "post_date": "2023-10-03",
-            "world": "fallen"
+            "ic_date": null,
+            "world": "fallen",
+            "summary": null
         },
         {
             "index": 181,
@@ -1486,7 +1856,9 @@ var stories = {
             "author": "popplio-anon",
             "link": "https:\/\/rentry.org\/FallenPT1",
             "post_date": "2023-10-05",
-            "world": "fallen"
+            "ic_date": null,
+            "world": "fallen",
+            "summary": null
         },
         {
             "index": 182,
@@ -1494,7 +1866,9 @@ var stories = {
             "author": "popplio-anon",
             "link": "https:\/\/rentry.org\/mzhq5",
             "post_date": "2023-10-19",
-            "world": "generic_pmd"
+            "ic_date": null,
+            "world": "generic_pmd",
+            "summary": null
         },
         {
             "index": 183,
@@ -1502,7 +1876,9 @@ var stories = {
             "author": "popplio-anon",
             "link": "https:\/\/rentry.org\/typee",
             "post_date": "2023-10-19",
-            "world": "generic_pmd"
+            "ic_date": null,
+            "world": "generic_pmd",
+            "summary": null
         },
         {
             "index": 184,
@@ -1510,7 +1886,9 @@ var stories = {
             "author": "popplio-anon",
             "link": "https:\/\/rentry.org\/FallenPT2",
             "post_date": "2023-10-22",
-            "world": "fallen"
+            "ic_date": null,
+            "world": "fallen",
+            "summary": null
         },
         {
             "index": 185,
@@ -1518,7 +1896,9 @@ var stories = {
             "author": "kfc-anon",
             "link": "https:\/\/rentry.org\/EtF_Rules",
             "post_date": "2023-04-19",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 186,
@@ -1526,7 +1906,9 @@ var stories = {
             "author": "kfc-anon",
             "link": "https:\/\/rentry.org\/EtF_Intro",
             "post_date": "2023-05-01",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 187,
@@ -1534,7 +1916,9 @@ var stories = {
             "author": "chespin-anon",
             "link": "https:\/\/rentry.org\/9tqka",
             "post_date": "2023-04-20",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 188,
@@ -1542,7 +1926,9 @@ var stories = {
             "author": "ribombee-anon",
             "link": "https:\/\/rentry.org\/RibombeeThunder",
             "post_date": "2023-05-09",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 189,
@@ -1550,7 +1936,9 @@ var stories = {
             "author": "phanphy-anon",
             "link": "https:\/\/rentry.org\/ugb85",
             "post_date": "2023-05-25",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 190,
@@ -1558,7 +1946,9 @@ var stories = {
             "author": "kfc-anon",
             "link": "https:\/\/rentry.org\/r4m9y",
             "post_date": "2023-05-31",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 191,
@@ -1566,7 +1956,9 @@ var stories = {
             "author": "kaiji-anon",
             "link": "https:\/\/rentry.org\/m8w6q",
             "post_date": "2023-05-31",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         },
         {
             "index": 192,
@@ -1574,7 +1966,9 @@ var stories = {
             "author": "kfc-anon",
             "link": "https:\/\/rentry.org\/ETF_Ending",
             "post_date": "2023-08-17",
-            "world": "clover_guild"
+            "ic_date": null,
+            "world": "clover_guild",
+            "summary": null
         }
     ]
 }

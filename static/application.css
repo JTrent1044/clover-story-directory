@@ -1,0 +1,66 @@
+/*CSS used for reflow plugin, which is a bit broken, I believe.*/
+/* REQUIRED CSS: change your reflow breakpoint here (35em below) */
+@media ( max-width: 35em ) {
+
+    /* uncomment out the line below if you don't want the sortable headers to show */
+    /* table.ui-table-reflow thead { display: none; } */
+
+    /* css for reflow & reflow2 widgets */
+    .ui-table-reflow td,
+    .ui-table-reflow th {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    float: right;
+    /* if not using the stickyHeaders widget (not the css3 version)
+    * the "!important" flag, and "height: auto" can be removed */
+    width: 100% !important;
+    height: auto !important;
+    }
+
+    /* reflow widget only */
+    .ui-table-reflow tbody td[data-title]:before {
+    color: #469;
+    font-size: .9em;
+    content: attr(data-title);
+    float: left;
+    width: 50%;
+    white-space: pre-wrap;
+    text-align: bottom;
+    display: inline-block;
+    }
+
+    table.ui-table-reflow thead { display: none; }
+
+    } /* end media query */
+
+/*Personally developed CSS. */
+.tablesorter input.disabled { display: none; } /*Hides disabled filters.*/
+
+.edit-btn:hover .edit-btn-symbol {
+    color: #6d8752;
+}
+
+#add-btn{
+    /* This goes on top. */
+    bottom:20px;
+    right:30px;
+    position:fixed;
+    z-index: 9999;
+    border-radius: 50%;
+    background-color: #97bb72; /*Vmix-jade button color*/
+    border: none;
+}
+
+#add-btn:hover{
+    background-color: #82A162;
+}
+
+#add-btn:active{
+    background-color: #6d8752;
+}
+
+#add-btn-symbol {
+    font-size: 25px;
+    padding: 5px;
+}
